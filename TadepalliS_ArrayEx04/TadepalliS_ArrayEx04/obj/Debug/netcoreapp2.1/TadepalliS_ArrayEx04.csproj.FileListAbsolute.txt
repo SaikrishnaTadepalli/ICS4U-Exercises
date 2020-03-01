@@ -1,0 +1,10 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\bin\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.deps.json
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\bin\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.runtimeconfig.json
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\bin\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.runtimeconfig.dev.json
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\bin\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.dll
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\bin\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\obj\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\obj\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.AssemblyInfoInputs.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\obj\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.AssemblyInfo.cs
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\obj\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.dll
+C:\Users\saikr\source\repos\C#\TadepalliS_ArrayEx04\TadepalliS_ArrayEx04\obj\Debug\netcoreapp2.1\TadepalliS_ArrayEx04.pdb
