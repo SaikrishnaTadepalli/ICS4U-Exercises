@@ -1,0 +1,9 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_MethodsEx02Craps\TadepalliS_MethodsEx02Craps\bin\Debug\TadepalliS_MethodsEx02Craps.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_MethodsEx02Craps\TadepalliS_MethodsEx02Craps\bin\Debug\TadepalliS_MethodsEx02Craps.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_MethodsEx02Craps\TadepalliS_MethodsEx02Craps\bin\Debug\TadepalliS_MethodsEx02Craps.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_MethodsEx02Craps\TadepalliS_MethodsEx02Craps\obj\Debug\TadepalliS_MethodsEx02Craps.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_MethodsEx02Craps\TadepalliS_MethodsEx02Craps\obj\Debug\TadepalliS_MethodsEx02Craps.Form1.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_MethodsEx02Craps\TadepalliS_MethodsEx02Craps\obj\Debug\TadepalliS_MethodsEx02Craps.Properties.Resources.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_MethodsEx02Craps\TadepalliS_MethodsEx02Craps\obj\Debug\TadepalliS_MethodsEx02Craps.csproj.GenerateResource.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_MethodsEx02Craps\TadepalliS_MethodsEx02Craps\obj\Debug\TadepalliS_MethodsEx02Craps.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_MethodsEx02Craps\TadepalliS_MethodsEx02Craps\obj\Debug\TadepalliS_MethodsEx02Craps.pdb
