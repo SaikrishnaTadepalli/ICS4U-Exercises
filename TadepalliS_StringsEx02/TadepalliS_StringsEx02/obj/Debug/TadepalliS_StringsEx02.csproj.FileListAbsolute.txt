@@ -1,0 +1,9 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_StringsEx02\TadepalliS_StringsEx02\bin\Debug\TadepalliS_StringsEx02.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_StringsEx02\TadepalliS_StringsEx02\bin\Debug\TadepalliS_StringsEx02.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_StringsEx02\TadepalliS_StringsEx02\bin\Debug\TadepalliS_StringsEx02.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_StringsEx02\TadepalliS_StringsEx02\obj\Debug\TadepalliS_StringsEx02.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_StringsEx02\TadepalliS_StringsEx02\obj\Debug\TadepalliS_StringsEx02.Form1.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_StringsEx02\TadepalliS_StringsEx02\obj\Debug\TadepalliS_StringsEx02.Properties.Resources.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_StringsEx02\TadepalliS_StringsEx02\obj\Debug\TadepalliS_StringsEx02.csproj.GenerateResource.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_StringsEx02\TadepalliS_StringsEx02\obj\Debug\TadepalliS_StringsEx02.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_StringsEx02\TadepalliS_StringsEx02\obj\Debug\TadepalliS_StringsEx02.pdb
