@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TadepalliS_ForLoopEx01", "TadepalliS_ForLoopEx01\TadepalliS_ForLoopEx01.csproj", "{A61201D2-7E3A-4C7D-B295-03173C6C38B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61201D2-7E3A-4C7D-B295-03173C6C38B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61201D2-7E3A-4C7D-B295-03173C6C38B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61201D2-7E3A-4C7D-B295-03173C6C38B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61201D2-7E3A-4C7D-B295-03173C6C38B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AEBE440-4E84-4B6C-870A-791F9E9020C5}
+	EndGlobalSection
+EndGlobal
