@@ -1,0 +1,11 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\bin\Debug\netcoreapp2.1\TadepalliS_FilesEx01.deps.json
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\bin\Debug\netcoreapp2.1\TadepalliS_FilesEx01.runtimeconfig.json
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\bin\Debug\netcoreapp2.1\TadepalliS_FilesEx01.runtimeconfig.dev.json
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\bin\Debug\netcoreapp2.1\TadepalliS_FilesEx01.dll
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\bin\Debug\netcoreapp2.1\TadepalliS_FilesEx01.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\obj\Debug\netcoreapp2.1\TadepalliS_FilesEx01.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\obj\Debug\netcoreapp2.1\TadepalliS_FilesEx01.csproj.CoreCompileInputs.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\obj\Debug\netcoreapp2.1\TadepalliS_FilesEx01.AssemblyInfoInputs.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\obj\Debug\netcoreapp2.1\TadepalliS_FilesEx01.AssemblyInfo.cs
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\obj\Debug\netcoreapp2.1\TadepalliS_FilesEx01.dll
+C:\Users\saikr\source\repos\C#\TadepalliS_FilesEx01\TadepalliS_FilesEx01\obj\Debug\netcoreapp2.1\TadepalliS_FilesEx01.pdb
