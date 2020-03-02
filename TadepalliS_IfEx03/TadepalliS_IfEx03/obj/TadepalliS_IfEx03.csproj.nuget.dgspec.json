@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\saikr\\Desktop\\old\\TadepalliS_IfEx03\\TadepalliS_IfEx03\\TadepalliS_IfEx03.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\saikr\\Desktop\\old\\TadepalliS_IfEx03\\TadepalliS_IfEx03\\TadepalliS_IfEx03.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saikr\\Desktop\\old\\TadepalliS_IfEx03\\TadepalliS_IfEx03\\TadepalliS_IfEx03.csproj",
+        "projectName": "TadepalliS_IfEx03",
+        "projectPath": "C:\\Users\\saikr\\Desktop\\old\\TadepalliS_IfEx03\\TadepalliS_IfEx03\\TadepalliS_IfEx03.csproj",
+        "packagesPath": "C:\\Users\\saikr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saikr\\Desktop\\old\\TadepalliS_IfEx03\\TadepalliS_IfEx03\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saikr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
