@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TadepalliS_ NumberPalindrome/1.0.0": {
+        "runtime": {
+          "TadepalliS_ NumberPalindrome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TadepalliS_ NumberPalindrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
