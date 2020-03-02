@@ -1,0 +1,9 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_ClassesEx02\TadepalliS_ClassesEx02\bin\Debug\TadepalliS_ClassesEx02.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_ClassesEx02\TadepalliS_ClassesEx02\bin\Debug\TadepalliS_ClassesEx02.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_ClassesEx02\TadepalliS_ClassesEx02\bin\Debug\TadepalliS_ClassesEx02.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_ClassesEx02\TadepalliS_ClassesEx02\obj\Debug\TadepalliS_ClassesEx02.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_ClassesEx02\TadepalliS_ClassesEx02\obj\Debug\TadepalliS_ClassesEx02.Form1.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_ClassesEx02\TadepalliS_ClassesEx02\obj\Debug\TadepalliS_ClassesEx02.Properties.Resources.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_ClassesEx02\TadepalliS_ClassesEx02\obj\Debug\TadepalliS_ClassesEx02.csproj.GenerateResource.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_ClassesEx02\TadepalliS_ClassesEx02\obj\Debug\TadepalliS_ClassesEx02.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_ClassesEx02\TadepalliS_ClassesEx02\obj\Debug\TadepalliS_ClassesEx02.pdb
